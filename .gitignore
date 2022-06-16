@@ -1,0 +1,5 @@
+*.pem
+!privkey_demo.pem
+!pubkey_demo.pem
+*.txt
+!test.txt
