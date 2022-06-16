@@ -3,3 +3,5 @@
 !pubkey_demo.pem
 *.txt
 !test.txt
+.DS_Store
+__pycache__/
